@@ -1,0 +1,9 @@
+# compiled output
+/dist
+/node_modules
+/build
+/.env
+
+# dotenv environment variable files
+.env
+.env.development.local
