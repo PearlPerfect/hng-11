@@ -1,0 +1,13 @@
+// // .sequelizerc
+
+// const path = require("path");
+
+// const dotenv = require("dotenv");
+// dotenv.config();
+
+// module.exports = {
+//   config: path.resolve("server", "sequelize/config/config.js"),
+//   "models-path": path.resolve("server", "models"),
+//   "seeders-path": path.resolve("server", "sequelize/seeders"),
+//   "migrations-path": path.resolve("server", "sequelize/migrations"),
+// };
